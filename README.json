@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-15T01:48:25Z",
+            "last_commit": "2026-08-16T01:56:32Z",
             "owner": "web-platform-tests",
             "repo": "wpt",
             "stars": 6096
@@ -50,7 +50,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-15T01:48:25Z",
+            "last_commit": "2026-08-16T01:56:32Z",
             "owner": "web-platform-tests",
             "repo": "wpt",
             "stars": 6096
@@ -192,7 +192,7 @@
             "last_commit": "2026-07-07T21:23:39Z",
             "owner": "google",
             "repo": "model-viewer",
-            "stars": 8196
+            "stars": 8197
           }
         },
         {
@@ -234,7 +234,7 @@
             "last_commit": "2026-08-07T14:10:39Z",
             "owner": "OvidijusParsiunas",
             "repo": "deep-chat",
-            "stars": 3700
+            "stars": 3702
           }
         },
         {
@@ -262,7 +262,7 @@
             "last_commit": "2026-02-11T08:37:36Z",
             "owner": "rapi-doc",
             "repo": "RapiDoc",
-            "stars": 1898
+            "stars": 1899
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2025-07-06T11:09:19Z",
             "owner": "cifkao",
             "repo": "html-midi-player",
-            "stars": 898
+            "stars": 899
           }
         },
         {
@@ -562,7 +562,7 @@
             "last_commit": "2026-05-14T13:39:51Z",
             "owner": "shoelace-style",
             "repo": "shoelace",
-            "stars": 13851
+            "stars": 13850
           }
         },
         {
@@ -727,7 +727,7 @@
           "repo_info": {
             "archived": false,
             "language": "CSS",
-            "last_commit": "2026-08-08T05:07:09Z",
+            "last_commit": "2026-08-15T18:19:02Z",
             "owner": "HTMLElements",
             "repo": "Smart.UI",
             "stars": 480
@@ -755,7 +755,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T21:23:37Z",
+            "last_commit": "2026-08-15T14:13:09Z",
             "owner": "haxtheweb",
             "repo": "webcomponents",
             "stars": 273
@@ -1049,7 +1049,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-15T01:04:54Z",
+            "last_commit": "2026-08-16T05:25:31Z",
             "owner": "stryker-mutator",
             "repo": "mutation-testing-elements",
             "stars": 29
@@ -1063,7 +1063,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T02:34:57Z",
+            "last_commit": "2026-08-16T00:22:20Z",
             "owner": "nuxeo",
             "repo": "nuxeo-elements",
             "stars": 29
@@ -1282,7 +1282,7 @@
             "last_commit": "2026-08-12T18:53:10Z",
             "owner": "microsoft",
             "repo": "fast",
-            "stars": 9667
+            "stars": 9666
           }
         },
         {
@@ -1293,7 +1293,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T06:51:40Z",
+            "last_commit": "2026-08-16T00:17:12Z",
             "owner": "UI5",
             "repo": "webcomponents",
             "stars": 1770
@@ -1307,7 +1307,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T02:36:33Z",
+            "last_commit": "2026-08-15T16:10:37Z",
             "owner": "adobe",
             "repo": "spectrum-web-components",
             "stars": 1529
@@ -1349,7 +1349,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T07:32:52Z",
+            "last_commit": "2026-08-16T07:08:35Z",
             "owner": "Esri",
             "repo": "calcite-design-system",
             "stars": 373
@@ -1503,7 +1503,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T02:56:01Z",
+            "last_commit": "2026-08-16T06:08:27Z",
             "owner": "NVIDIA",
             "repo": "elements",
             "stars": 78
@@ -1613,7 +1613,7 @@
             "last_commit": "2026-08-15T00:33:52Z",
             "owner": "stenciljs",
             "repo": "core",
-            "stars": 13126
+            "stars": 13127
           }
         },
         {
@@ -1627,7 +1627,7 @@
             "last_commit": "2026-08-12T18:53:10Z",
             "owner": "microsoft",
             "repo": "fast",
-            "stars": 9667
+            "stars": 9666
           }
         },
         {
@@ -1750,7 +1750,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-29T23:15:04Z",
+            "last_commit": "2026-08-16T07:10:41Z",
             "owner": "chialab",
             "repo": "dna",
             "stars": 60
@@ -1801,7 +1801,7 @@
             "last_commit": "2026-08-12T23:15:06Z",
             "owner": "solidjs",
             "repo": "solid",
-            "stars": 35834
+            "stars": 35840
           }
         },
         {
@@ -1815,7 +1815,7 @@
             "last_commit": "2026-08-07T09:41:46Z",
             "owner": "hybridsjs",
             "repo": "hybrids",
-            "stars": 3177
+            "stars": 3176
           }
         },
         {
@@ -2232,7 +2232,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-15T01:48:25Z",
+            "last_commit": "2026-08-16T01:56:32Z",
             "owner": "web-platform-tests",
             "repo": "wpt",
             "stars": 6096
@@ -2427,7 +2427,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:47:43.591Z",
+    "last_updated": "2026-08-16T07:49:21.574Z",
     "original_repository": "web-padawan/awesome-web-components",
     "original_repository_sha": "c99d87c42aad9b30a04c6ffce5666b4e845a9ccb",
     "enhanced_repository": "enhansome/enhansome-web-components",
