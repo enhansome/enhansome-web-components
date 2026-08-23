@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 3618133,
                 "language": "HTML",
-                "last_commit": "2026-08-22T06:57:47Z",
+                "last_commit": "2026-08-23T06:59:54Z",
                 "owner": "web-platform-tests",
                 "repo": "wpt",
-                "stars": 6113
+                "stars": 6116
               }
             },
             {
@@ -51,10 +51,10 @@
                 "archived": false,
                 "id": 3618133,
                 "language": "HTML",
-                "last_commit": "2026-08-22T06:57:47Z",
+                "last_commit": "2026-08-23T06:59:54Z",
                 "owner": "web-platform-tests",
                 "repo": "wpt",
-                "stars": 6113
+                "stars": 6116
               }
             },
             {
@@ -185,7 +185,7 @@
                 "last_commit": "2026-08-21T10:40:31Z",
                 "owner": "basecamp",
                 "repo": "trix",
-                "stars": 20003
+                "stars": 20005
               }
             },
             {
@@ -200,7 +200,7 @@
                 "last_commit": "2026-07-07T21:23:39Z",
                 "owner": "google",
                 "repo": "model-viewer",
-                "stars": 8206
+                "stars": 8207
               }
             },
             {
@@ -242,7 +242,7 @@
                 "archived": false,
                 "id": 603866391,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T14:51:43Z",
+                "last_commit": "2026-08-22T09:28:25Z",
                 "owner": "OvidijusParsiunas",
                 "repo": "deep-chat",
                 "stars": 3706
@@ -350,7 +350,7 @@
                 "last_commit": "2026-07-31T23:45:57Z",
                 "owner": "Aejkatappaja",
                 "repo": "phantom-ui",
-                "stars": 788
+                "stars": 789
               }
             },
             {
@@ -512,7 +512,7 @@
                 "archived": false,
                 "id": 523898807,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T20:04:57Z",
+                "last_commit": "2026-08-22T13:52:02Z",
                 "owner": "missing-elements",
                 "repo": "pdfjs-viewer",
                 "stars": 76
@@ -582,7 +582,7 @@
                 "last_commit": "2026-08-21T08:26:19Z",
                 "owner": "ampproject",
                 "repo": "amphtml",
-                "stars": 14910
+                "stars": 14908
               }
             },
             {
@@ -612,7 +612,7 @@
                 "last_commit": "2023-10-07T20:59:18Z",
                 "owner": "rough-stuff",
                 "repo": "wired-elements",
-                "stars": 10826
+                "stars": 10828
               }
             },
             {
@@ -969,7 +969,7 @@
                 "archived": false,
                 "id": 692889966,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T00:44:22Z",
+                "last_commit": "2026-08-22T23:07:23Z",
                 "owner": "playcanvas",
                 "repo": "web-components",
                 "stars": 107
@@ -1134,7 +1134,7 @@
                 "archived": false,
                 "id": 139985245,
                 "language": "HTML",
-                "last_commit": "2026-08-22T05:13:35Z",
+                "last_commit": "2026-08-22T21:18:46Z",
                 "owner": "stryker-mutator",
                 "repo": "mutation-testing-elements",
                 "stars": 29
@@ -1149,7 +1149,7 @@
                 "archived": false,
                 "id": 31254230,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T03:48:33Z",
+                "last_commit": "2026-08-23T00:22:35Z",
                 "owner": "nuxeo",
                 "repo": "nuxeo-elements",
                 "stars": 29
@@ -1354,7 +1354,7 @@
                 "last_commit": "2026-08-21T10:29:35Z",
                 "owner": "microsoft",
                 "repo": "fluentui",
-                "stars": 20223
+                "stars": 20224
               }
             },
             {
@@ -1369,7 +1369,7 @@
                 "last_commit": "2026-08-21T19:32:39Z",
                 "owner": "material-components",
                 "repo": "material-web",
-                "stars": 11189
+                "stars": 11191
               }
             },
             {
@@ -1396,10 +1396,10 @@
                 "archived": false,
                 "id": 167405382,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T00:16:55Z",
+                "last_commit": "2026-08-23T00:16:52Z",
                 "owner": "UI5",
                 "repo": "webcomponents",
-                "stars": 1769
+                "stars": 1770
               }
             },
             {
@@ -1441,7 +1441,7 @@
                 "archived": false,
                 "id": 116304230,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T20:09:11Z",
+                "last_commit": "2026-08-22T19:24:59Z",
                 "owner": "patternfly",
                 "repo": "patternfly-elements",
                 "stars": 393
@@ -1456,7 +1456,7 @@
                 "archived": false,
                 "id": 185709634,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T00:40:13Z",
+                "last_commit": "2026-08-23T05:53:10Z",
                 "owner": "Esri",
                 "repo": "calcite-design-system",
                 "stars": 373
@@ -1474,7 +1474,7 @@
                 "last_commit": "2026-08-21T18:57:57Z",
                 "owner": "siemens",
                 "repo": "ix",
-                "stars": 368
+                "stars": 369
               }
             },
             {
@@ -1621,10 +1621,10 @@
                 "archived": false,
                 "id": 1170974915,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T06:09:56Z",
+                "last_commit": "2026-08-22T16:26:05Z",
                 "owner": "NVIDIA",
                 "repo": "elements",
-                "stars": 78
+                "stars": 80
               }
             },
             {
@@ -1926,10 +1926,10 @@
                 "archived": false,
                 "id": 130884470,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T22:25:43Z",
+                "last_commit": "2026-08-22T08:58:06Z",
                 "owner": "solidjs",
                 "repo": "solid",
-                "stars": 35896
+                "stars": 35903
               }
             },
             {
@@ -2142,7 +2142,7 @@
             "last_commit": "2026-08-21T08:26:19Z",
             "owner": "ampproject",
             "repo": "amphtml",
-            "stars": 14910
+            "stars": 14908
           }
         },
         {
@@ -2378,10 +2378,10 @@
                 "archived": false,
                 "id": 3618133,
                 "language": "HTML",
-                "last_commit": "2026-08-22T06:57:47Z",
+                "last_commit": "2026-08-23T06:59:54Z",
                 "owner": "web-platform-tests",
                 "repo": "wpt",
-                "stars": 6113
+                "stars": 6116
               }
             },
             {
@@ -2585,7 +2585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T07:49:27.783Z",
+    "last_updated": "2026-08-23T07:51:08.332Z",
     "original_repository": "web-padawan/awesome-web-components",
     "original_repository_id": 25369460,
     "original_repository_sha": "e8d6977b74cee430a84b431956fed5c2d90dac80",
