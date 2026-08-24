@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 3618133,
                 "language": "HTML",
-                "last_commit": "2026-08-24T07:14:43Z",
+                "last_commit": "2026-08-24T14:01:28Z",
                 "owner": "web-platform-tests",
                 "repo": "wpt",
-                "stars": 6120
+                "stars": 6121
               }
             },
             {
@@ -51,10 +51,10 @@
                 "archived": false,
                 "id": 3618133,
                 "language": "HTML",
-                "last_commit": "2026-08-24T07:14:43Z",
+                "last_commit": "2026-08-24T14:01:28Z",
                 "owner": "web-platform-tests",
                 "repo": "wpt",
-                "stars": 6120
+                "stars": 6121
               }
             },
             {
@@ -76,6 +76,50 @@
           "description": "Shadow DOM describes a method of combining multiple DOM trees into one hierarchy and how these trees interact with each other within a document, thus enabling better composition of the DOM.",
           "node_type": "group",
           "title": "Shadow DOM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "web-platform-tests",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3618133,
+                "language": "HTML",
+                "last_commit": "2026-08-24T14:01:28Z",
+                "owner": "web-platform-tests",
+                "repo": "wpt",
+                "stars": 6121
+              }
+            }
+          ],
+          "description": "element is used to declare fragments of HTML that can be cloned and inserted in the document by script.",
+          "node_type": "group",
+          "title": "HTML Templates"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "web-platform-tests",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3618133,
+                "language": "HTML",
+                "last_commit": "2026-08-24T14:01:28Z",
+                "owner": "web-platform-tests",
+                "repo": "wpt",
+                "stars": 6121
+              }
+            }
+          ],
+          "description": "CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM for styling purposes.",
+          "node_type": "group",
+          "title": "CSS Shadow Parts"
         }
       ],
       "title": "Standards"
@@ -83,6 +127,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Gold Standard Checklist for Web Components",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 31972922,
+                "language": null,
+                "last_commit": "2015-08-20T18:45:25Z",
+                "owner": "webcomponents",
+                "repo": "gold-standard",
+                "stars": 1023
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Best Practices"
+        },
         {
           "children": [
             {
@@ -175,7 +241,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "trix",
               "description": "Rich text editor custom element for everyday writing.",
               "children": [],
               "repo_info": {
@@ -185,12 +251,12 @@
                 "last_commit": "2026-08-21T10:40:31Z",
                 "owner": "basecamp",
                 "repo": "trix",
-                "stars": 20004
+                "stars": 20005
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "model-viewer",
               "description": "Web component for rendering interactive 3D models.",
               "children": [],
               "repo_info": {
@@ -200,12 +266,12 @@
                 "last_commit": "2026-07-07T21:23:39Z",
                 "owner": "google",
                 "repo": "model-viewer",
-                "stars": 8208
+                "stars": 8209
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "lite-youtube-embed",
               "description": "Lite YouTube embed with a focus on visual performance.",
               "children": [],
               "repo_info": {
@@ -220,7 +286,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "css-doodle",
               "description": "Web component for drawing patterns with CSS.",
               "children": [],
               "repo_info": {
@@ -235,7 +301,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "deep-chat",
               "description": "Web component for chat with AI capabilities.",
               "children": [],
               "repo_info": {
@@ -250,7 +316,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "vime",
               "description": "Customizable, extensible, accessible and framework agnostic media player.",
               "children": [],
               "repo_info": {
@@ -265,7 +331,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "RapiDoc",
               "description": "Web component for creating documentation from OpenAPI Specification.",
               "children": [],
               "repo_info": {
@@ -280,7 +346,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "emoji-picker-element",
               "description": "Lightweight emoji picker, distributed as a web component.",
               "children": [],
               "repo_info": {
@@ -295,7 +361,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "qr-code",
               "description": "Web component for rendering customizable, animate-able, SVG-based QR codes.",
               "children": [],
               "repo_info": {
@@ -310,7 +376,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "dark-mode-toggle",
               "description": "Custom element that allows to create a dark mode toggle or switch.",
               "children": [],
               "repo_info": {
@@ -325,7 +391,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "html-midi-player",
               "description": "MIDI file player and visualizer web components.",
               "children": [],
               "repo_info": {
@@ -340,7 +406,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "phantom-ui",
               "description": "Skeleton loader that measures your real DOM to render matching shimmer placeholders.",
               "children": [],
               "repo_info": {
@@ -355,7 +421,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "shader-doodle",
               "description": "Web component for writing and rendering shaders.",
               "children": [],
               "repo_info": {
@@ -370,7 +436,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "active-table",
               "description": "Editable table web component.",
               "children": [],
               "repo_info": {
@@ -385,7 +451,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "api-viewer-element",
               "description": "API documentation and live playground for Web Components.",
               "children": [],
               "repo_info": {
@@ -400,7 +466,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "progressive-image-element",
               "description": "Custom element to progressively enhance image placeholders.",
               "children": [],
               "repo_info": {
@@ -415,7 +481,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "json-viewer",
               "description": "Web component to visualize JSON data in a tree view.",
               "children": [],
               "repo_info": {
@@ -430,7 +496,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "web-vitals-element",
               "description": "Bring web vitals quickly into your page using custom elements.",
               "children": [],
               "repo_info": {
@@ -445,7 +511,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "notectl",
               "description": "Modern rich text editor with plugin architecture, immutable state, and zero-config framework-agnostic deployment.",
               "children": [],
               "repo_info": {
@@ -460,7 +526,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "chessboard-element",
               "description": "Standalone chess board web component.",
               "children": [],
               "repo_info": {
@@ -475,7 +541,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "playerx",
               "description": "Media player web component.",
               "children": [],
               "repo_info": {
@@ -490,7 +556,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "range-slider-element",
               "description": "Accessible range slider custom element with keyboard support.",
               "children": [],
               "repo_info": {
@@ -505,14 +571,14 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "pdfjs-viewer",
               "description": "Custom element that embeds PDF.js default viewer.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 523898807,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T12:16:43Z",
+                "last_commit": "2026-08-24T11:39:52Z",
                 "owner": "missing-elements",
                 "repo": "pdfjs-viewer",
                 "stars": 76
@@ -520,7 +586,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "fg-modal",
               "description": "Accessible modal dialog web component.",
               "children": [],
               "repo_info": {
@@ -535,7 +601,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "file-viewer",
               "description": "Web component built with Svelte to view files.",
               "children": [],
               "repo_info": {
@@ -550,7 +616,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "theme-switch",
               "description": "Animated toggle button to switch between light, dark, and system theme.",
               "children": [],
               "repo_info": {
@@ -759,7 +825,7 @@
                 "archived": false,
                 "id": 324593493,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T07:44:35Z",
+                "last_commit": "2026-08-24T13:39:37Z",
                 "owner": "vaadin",
                 "repo": "web-components",
                 "stars": 581
@@ -879,7 +945,7 @@
                 "archived": false,
                 "id": 366715251,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T08:01:08Z",
+                "last_commit": "2026-08-24T11:38:20Z",
                 "owner": "IgniteUI",
                 "repo": "igniteui-webcomponents",
                 "stars": 169
@@ -969,7 +1035,7 @@
                 "archived": false,
                 "id": 692889966,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T23:07:23Z",
+                "last_commit": "2026-08-24T14:00:30Z",
                 "owner": "playcanvas",
                 "repo": "web-components",
                 "stars": 107
@@ -1014,7 +1080,7 @@
                 "archived": false,
                 "id": 174205995,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T21:24:09Z",
+                "last_commit": "2026-08-24T13:09:19Z",
                 "owner": "BrightspaceUI",
                 "repo": "core",
                 "stars": 79
@@ -1149,7 +1215,7 @@
                 "archived": false,
                 "id": 31254230,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T00:21:55Z",
+                "last_commit": "2026-08-24T12:15:56Z",
                 "owner": "nuxeo",
                 "repo": "nuxeo-elements",
                 "stars": 29
@@ -1351,10 +1417,10 @@
                 "archived": false,
                 "id": 60537144,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T19:22:54Z",
+                "last_commit": "2026-08-24T09:17:54Z",
                 "owner": "microsoft",
                 "repo": "fluentui",
-                "stars": 20226
+                "stars": 20227
               }
             },
             {
@@ -1369,7 +1435,7 @@
                 "last_commit": "2026-08-21T19:32:39Z",
                 "owner": "material-components",
                 "repo": "material-web",
-                "stars": 11192
+                "stars": 11196
               }
             },
             {
@@ -1396,7 +1462,7 @@
                 "archived": false,
                 "id": 167405382,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T08:00:54Z",
+                "last_commit": "2026-08-24T13:55:23Z",
                 "owner": "UI5",
                 "repo": "webcomponents",
                 "stars": 1770
@@ -1411,7 +1477,7 @@
                 "archived": false,
                 "id": 158297197,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T07:54:38Z",
+                "last_commit": "2026-08-24T13:46:03Z",
                 "owner": "adobe",
                 "repo": "spectrum-web-components",
                 "stars": 1529
@@ -1471,7 +1537,7 @@
                 "archived": false,
                 "id": 538633339,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T07:13:29Z",
+                "last_commit": "2026-08-24T13:52:35Z",
                 "owner": "siemens",
                 "repo": "ix",
                 "stars": 369
@@ -1501,7 +1567,7 @@
                 "archived": false,
                 "id": 170262745,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T11:41:37Z",
+                "last_commit": "2026-08-24T09:29:13Z",
                 "owner": "freshworks-oss",
                 "repo": "crayons",
                 "stars": 248
@@ -1621,7 +1687,7 @@
                 "archived": false,
                 "id": 1170974915,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T06:18:59Z",
+                "last_commit": "2026-08-24T13:55:39Z",
                 "owner": "NVIDIA",
                 "repo": "elements",
                 "stars": 80
@@ -1651,7 +1717,7 @@
                 "archived": false,
                 "id": 244370518,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T06:27:54Z",
+                "last_commit": "2026-08-24T12:09:27Z",
                 "owner": "sbb-design-systems",
                 "repo": "lyne-components",
                 "stars": 66
@@ -1929,7 +1995,7 @@
                 "last_commit": "2026-08-22T08:58:06Z",
                 "owner": "solidjs",
                 "repo": "solid",
-                "stars": 35913
+                "stars": 35915
               }
             },
             {
@@ -1956,7 +2022,7 @@
                 "archived": false,
                 "id": 154988175,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T10:02:55Z",
+                "last_commit": "2026-08-24T10:02:59Z",
                 "owner": "matthewp",
                 "repo": "haunted",
                 "stars": 2719
@@ -2011,7 +2077,7 @@
                 "last_commit": "2025-01-09T16:26:14Z",
                 "owner": "Wildhoney",
                 "repo": "ReactShadow",
-                "stars": 1381
+                "stars": 1382
               }
             },
             {
@@ -2378,10 +2444,32 @@
                 "archived": false,
                 "id": 3618133,
                 "language": "HTML",
-                "last_commit": "2026-08-24T07:14:43Z",
+                "last_commit": "2026-08-24T14:01:28Z",
                 "owner": "web-platform-tests",
                 "repo": "wpt",
-                "stars": 6120
+                "stars": 6121
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Form-associated Custom Elements"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "web-platform-tests",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3618133,
+                "language": "HTML",
+                "last_commit": "2026-08-24T14:01:28Z",
+                "owner": "web-platform-tests",
+                "repo": "wpt",
+                "stars": 6121
               }
             },
             {
@@ -2403,6 +2491,28 @@
           "description": null,
           "node_type": "group",
           "title": "Constructable Stylesheet Objects"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "'s property and the pseudo class",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14291040,
+                "language": "HTML",
+                "last_commit": "2025-12-09T18:39:35Z",
+                "owner": "WICG",
+                "repo": "webcomponents",
+                "stars": 4490
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Custom State Pseudo Class"
         }
       ],
       "title": "Proposals"
@@ -2579,13 +2689,42 @@
           "description": "Modern browsers supports web components standards without any of the polyfills listed below. The only notable exception is that customized built-in elements are rejected by WebKit (Safari).",
           "node_type": "group",
           "title": "Polyfills"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "HTML as Custom Elements",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 18572086,
+                    "language": "CSS",
+                    "last_commit": "2015-09-03T17:23:45Z",
+                    "owner": "domenic",
+                    "repo": "html-as-custom-elements",
+                    "stars": 262
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "2014"
+            }
+          ],
+          "description": "The articles below represent a long story of the Web Components specifications on the way towards the standardization. Some of them refer to earlier, so-called \"v0\" Shadow DOM and Custom Elements specs, and abandoned HTML Imports spec. These materials are here for historical reasons only, they are grouped by years and listed in chronological order.",
+          "node_type": "group",
+          "title": "History"
         }
       ],
       "title": "Archive"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:07:47.637Z",
+    "last_updated": "2026-08-24T14:02:30.129Z",
     "original_repository": "web-padawan/awesome-web-components",
     "original_repository_id": 25369460,
     "original_repository_sha": "e8d6977b74cee430a84b431956fed5c2d90dac80",
