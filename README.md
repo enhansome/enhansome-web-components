@@ -79,7 +79,7 @@ A curated list of awesome Web Components resources.
 
 Custom Elements provide a way for authors to build their own fully-featured DOM elements.
 
-* [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements) ⭐ 6,146 | 🐛 2,805 | 🌐 HTML | 📅 2026-09-10
+* [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements) ⭐ 6,145 | 🐛 2,801 | 🌐 HTML | 📅 2026-09-11
 * [Custom elements](https://javascript.info/custom-elements)
 * [Custom Elements v1: Reusable Web Components](https://web.dev/custom-elements-v1/)
 * [Handling properties in custom element upgrades](https://nolanlawson.com/2021/08/03/handling-properties-in-custom-element-upgrades/)
@@ -91,7 +91,7 @@ Custom Elements provide a way for authors to build their own fully-featured DOM 
 
 Shadow DOM describes a method of combining multiple DOM trees into one hierarchy and how these trees interact with each other within a document, thus enabling better composition of the DOM.
 
-* [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom) ⭐ 6,146 | 🐛 2,805 | 🌐 HTML | 📅 2026-09-10
+* [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom) ⭐ 6,145 | 🐛 2,801 | 🌐 HTML | 📅 2026-09-11
 * [Shadow DOM in depth](https://github.com/praveenpuglia/shadow-dom-in-depth) ⭐ 239 | 🐛 1 | 📅 2022-05-26
 * [A complete guide on shadow DOM and event propagation](https://pm.dartus.fr/blog/a-complete-guide-on-shadow-dom-and-event-propagation/)
 * [DOM Living Standard: Shadow tree](https://dom.spec.whatwg.org/#shadow-trees)
@@ -112,7 +112,7 @@ Shadow DOM describes a method of combining multiple DOM trees into one hierarchy
 
 `<template>` element is used to declare fragments of HTML that can be cloned and inserted in the document by script.
 
-* [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element) ⭐ 6,146 | 🐛 2,805 | 🌐 HTML | 📅 2026-09-10
+* [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element) ⭐ 6,145 | 🐛 2,801 | 🌐 HTML | 📅 2026-09-11
 * [Crafting Reusable HTML Templates](https://css-tricks.com/crafting-reusable-html-templates/)
 * [HTML Living Standard: The `template` element](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
 * [HTML templates with vanilla JavaScript](https://gomakethings.com/html-templates-with-vanilla-javascript/)
@@ -127,7 +127,7 @@ Shadow DOM describes a method of combining multiple DOM trees into one hierarchy
 
 CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM for styling purposes.
 
-* [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow/part) ⭐ 6,146 | 🐛 2,805 | 🌐 HTML | 📅 2026-09-10
+* [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow/part) ⭐ 6,145 | 🐛 2,801 | 🌐 HTML | 📅 2026-09-11
 * [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
 * [CSS shadow parts](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Shadow_parts)
 * [CSS Shadow Parts are coming!](https://dev.to/webpadawan/css-shadow-parts-are-coming-mi5)
@@ -181,7 +181,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Examples
 
-* [web-components-examples](https://github.com/mdn/web-components-examples) ⭐ 3,371 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-13 - Series of web components examples, related to the MDN web components documentation.
+* [web-components-examples](https://github.com/mdn/web-components-examples) ⭐ 3,370 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-13 - Series of web components examples, related to the MDN web components documentation.
 * [howto-components](https://github.com/GoogleChromeLabs/howto-components) ⭐ 873 | 🐛 52 | 🌐 JavaScript | 📅 2026-08-11 - Collection of web components that implement common web UI patterns.
 * [generic-components](https://github.com/thepassle/generic-components) ⭐ 571 | 🐛 11 | 🌐 JavaScript | 📅 2022-07-21 - Collection of generic web components with a focus on accessibility, and ease of use.
 * [Nude UI](https://github.com/LeaVerou/nudeui) ⭐ 234 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-09 - Collection of accessible, customizable, ultra-light web components.
@@ -276,24 +276,24 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Components
 
-* [`<trix-editor>`](https://github.com/basecamp/trix) ⭐ 20,004 | 🐛 183 | 🌐 JavaScript | 📅 2026-09-10 - Rich text editor custom element for everyday writing.
-* [`<model-viewer>`](https://github.com/google/model-viewer) ⭐ 8,233 | 🐛 117 | 🌐 TypeScript | 📅 2026-07-07 - Web component for rendering interactive 3D models.
+* [`<trix-editor>`](https://github.com/basecamp/trix) ⭐ 20,004 | 🐛 185 | 🌐 JavaScript | 📅 2026-09-10 - Rich text editor custom element for everyday writing.
+* [`<model-viewer>`](https://github.com/google/model-viewer) ⭐ 8,236 | 🐛 117 | 🌐 TypeScript | 📅 2026-07-07 - Web component for rendering interactive 3D models.
 * [`<lite-youtube>`](https://github.com/paulirish/lite-youtube-embed) ⭐ 6,350 | 🐛 27 | 🌐 HTML | 📅 2025-11-10 - Lite YouTube embed with a focus on visual performance.
-* [`<css-doodle>`](https://github.com/css-doodle/css-doodle) ⭐ 6,036 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-08 - Web component for drawing patterns with CSS.
-* [`<deep-chat>`](https://github.com/OvidijusParsiunas/deep-chat) ⭐ 3,712 | 🐛 39 | 🌐 TypeScript | 📅 2026-09-06 - Web component for chat with AI capabilities.
+* [`<css-doodle>`](https://github.com/css-doodle/css-doodle) ⭐ 6,036 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-11 - Web component for drawing patterns with CSS.
+* [`<deep-chat>`](https://github.com/OvidijusParsiunas/deep-chat) ⭐ 3,713 | 🐛 39 | 🌐 TypeScript | 📅 2026-09-10 - Web component for chat with AI capabilities.
 * [`<vime-player>`](https://github.com/vime-js/vime) ⭐ 2,843 | 🐛 171 | 🌐 TypeScript | 📅 2024-11-17 - Customizable, extensible, accessible and framework agnostic media player.
 * [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) ⭐ 1,898 | 🐛 138 | 🌐 JavaScript | 📅 2026-02-11 - Web component for creating documentation from OpenAPI Specification.
-* [`<emoji-picker>`](https://github.com/nolanlawson/emoji-picker-element) ⭐ 1,753 | 🐛 38 | 🌐 JavaScript | 📅 2026-06-08 - Lightweight emoji picker, distributed as a web component.
-* [`<qr-code>`](https://github.com/bitjson/qr-code) ⭐ 1,383 | 🐛 14 | 🌐 TypeScript | 📅 2023-02-28 – Web component for rendering customizable, animate-able, SVG-based QR codes.
-* [`<dark-mode-toggle>`](https://github.com/GoogleChromeLabs/dark-mode-toggle) ⭐ 1,225 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-05 - Custom element that allows to create a dark mode toggle or switch.
+* [`<emoji-picker>`](https://github.com/nolanlawson/emoji-picker-element) ⭐ 1,754 | 🐛 38 | 🌐 JavaScript | 📅 2026-06-08 - Lightweight emoji picker, distributed as a web component.
+* [`<qr-code>`](https://github.com/bitjson/qr-code) ⭐ 1,382 | 🐛 14 | 🌐 TypeScript | 📅 2023-02-28 – Web component for rendering customizable, animate-able, SVG-based QR codes.
+* [`<dark-mode-toggle>`](https://github.com/GoogleChromeLabs/dark-mode-toggle) ⭐ 1,224 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-05 - Custom element that allows to create a dark mode toggle or switch.
 * [`<midi-player>`](https://github.com/cifkao/html-midi-player) ⭐ 906 | 🐛 21 | 🌐 TypeScript | 📅 2025-07-06 - MIDI file player and visualizer web components.
-* [`<phantom-ui>`](https://github.com/Aejkatappaja/phantom-ui) ⭐ 796 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-31 - Skeleton loader that measures your real DOM to render matching shimmer placeholders.
+* [`<phantom-ui>`](https://github.com/Aejkatappaja/phantom-ui) ⭐ 797 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-31 - Skeleton loader that measures your real DOM to render matching shimmer placeholders.
 * [`<shader-doodle>`](https://github.com/halvves/shader-doodle) ⭐ 588 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-13 - Web component for writing and rendering shaders.
 * [`<active-table>`](https://github.com/OvidijusParsiunas/active-table) ⭐ 325 | 🐛 28 | 🌐 TypeScript | 📅 2026-02-26 - Editable table web component.
 * [`<api-viewer>`](https://github.com/web-padawan/api-viewer-element) ⭐ 284 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-04 - API documentation and live playground for Web Components.
 * [`<progressive-image>`](https://github.com/andreruffert/progressive-image-element) ⭐ 270 | 🐛 2 | 🌐 HTML | 📅 2026-09-07 - Custom element to progressively enhance image placeholders.
 * [`<json-viewer>`](https://github.com/alenaksu/json-viewer) ⭐ 242 | 🐛 8 | 🌐 TypeScript | 📅 2025-04-03 - Web component to visualize JSON data in a tree view.
-* [`<notectl-editor>`](https://github.com/Samyssmile/notectl) ⭐ 194 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-10 - Modern rich text editor with plugin architecture, immutable state, and zero-config framework-agnostic deployment.
+* [`<notectl-editor>`](https://github.com/Samyssmile/notectl) ⭐ 196 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-11 - Modern rich text editor with plugin architecture, immutable state, and zero-config framework-agnostic deployment.
 * [`<web-vitals>`](https://github.com/stefanjudis/web-vitals-element) ⭐ 185 | 🐛 7 | 🌐 JavaScript | 📅 2023-08-15 - Bring [web vitals](https://github.com/GoogleChrome/web-vitals) ⭐ 8,608 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-10 quickly into your page using custom elements.
 * [`<chess-board>`](https://github.com/justinfagnani/chessboard-element) ⭐ 123 | 🐛 21 | 🌐 TypeScript | 📅 2025-08-22 - Standalone chess board web component.
 * [`<player-x>`](https://github.com/playerxo/playerx) ⭐ 122 | 🐛 5 | 🌐 JavaScript | 📅 2024-07-19 - Media player web component.
@@ -308,33 +308,33 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 * [AMP](https://github.com/ampproject/amphtml) ⭐ 14,903 | 🐛 1,028 | 🌐 JavaScript | 📅 2026-08-26 - Web component framework for easily creating user-first websites, stories, ads, emails and more.
 * [Wired Elements](https://github.com/wiredjs/wired-elements) ⭐ 10,824 | 🐛 36 | 🌐 TypeScript | 📅 2023-10-07 - Set of common UI elements with a hand-drawn, sketchy look.
-* [github-elements](https://github.com/github/github-elements) ⭐ 2,904 | 🐛 1 | 🌐 JavaScript | 📅 2025-12-08 - GitHub's Web Component collection.
+* [github-elements](https://github.com/github/github-elements) ⭐ 2,904 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-10 - GitHub's Web Component collection.
 * [LDRS](https://github.com/GriffinJohnston/ldrs) ⭐ 2,211 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-22 - Lightweight, customizable loading animations/spinners.
-* [Lion Web Components](https://github.com/ing-bank/lion) ⭐ 1,962 | 🐛 189 | 🌐 JavaScript | 📅 2026-09-10 - Set of highly performant, accessible and flexible Web Components.
+* [Lion Web Components](https://github.com/ing-bank/lion) ⭐ 1,962 | 🐛 190 | 🌐 JavaScript | 📅 2026-09-11 - Set of highly performant, accessible and flexible Web Components.
 * [Blaze UI Atoms](https://github.com/BlazeSoftware/atoms) ⭐ 1,552 | 🐛 4 | 🌐 TypeScript | 📅 2023-06-20 - Set of web components powered by Blaze CSS.
-* [Lume](https://github.com/lume/lume) ⭐ 1,517 | 🐛 123 | 🌐 TypeScript | 📅 2026-09-08 - Custom elements for 3D graphics. Built with Three.js for WebGL/WebGPU rendering, and Solid.js for reactivity and templating.
-* [Web Awesome](https://github.com/shoelace-style/webawesome) ⭐ 1,307 | 🐛 47 | 🌐 TypeScript | 📅 2026-09-09 - Open source library of web components from Font Awesome.
+* [Lume](https://github.com/lume/lume) ⭐ 1,520 | 🐛 123 | 🌐 TypeScript | 📅 2026-09-08 - Custom elements for 3D graphics. Built with Three.js for WebGL/WebGPU rendering, and Solid.js for reactivity and templating.
+* [Web Awesome](https://github.com/shoelace-style/webawesome) ⭐ 1,310 | 🐛 46 | 🌐 TypeScript | 📅 2026-09-10 - Open source library of web components from Font Awesome.
 * [Elix](https://github.com/elix/elix) ⭐ 839 | 🐛 12 | 🌐 JavaScript | 📅 2023-03-01 - High-quality, customizable web components for common user interface patterns.
 * [AgnosticUI](https://github.com/AgnosticUI/agnosticui) ⭐ 826 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-30 - A CLI-based UI component library that copies Lit web components directly into your project. Full React and Vue wrappers for native framework experience.
 * [Playground Elements](https://github.com/PolymerLabs/playground-elements) ⭐ 649 | 🐛 95 | 🌐 TypeScript | 📅 2025-10-02 - Serverless code experiences with web components.
-* [Vaadin components](https://github.com/vaadin/web-components) ⭐ 581 | 🐛 928 | 🌐 JavaScript | 📅 2026-09-10 - Evolving set of high-quality web components for building business web applications.
-* [Smart Web Components](https://github.com/HTMLElements/smart-webcomponents) ⭐ 484 | 🐛 17 | 🌐 CSS | 📅 2026-09-10 - Web components for business applications.
+* [Vaadin components](https://github.com/vaadin/web-components) ⭐ 582 | 🐛 930 | 🌐 JavaScript | 📅 2026-09-11 - Evolving set of high-quality web components for building business web applications.
+* [Smart Web Components](https://github.com/HTMLElements/smart-webcomponents) ⭐ 484 | 🐛 18 | 🌐 CSS | 📅 2026-09-10 - Web components for business applications.
 * [VSCode Elements](https://github.com/vscode-elements/elements) ⭐ 457 | 🐛 60 | 🌐 HTML | 📅 2026-09-09 - Web component library for developing Visual Studio Code extensions.
 * [Apollo Elements](https://github.com/apollo-elements/apollo-elements) ⭐ 423 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-07 - Custom elements for using Apollo GraphQL with various web components libraries.
-* [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) ⭐ 274 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-09 - ELMS:LN produced web components for any project.
+* [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) ⭐ 274 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-10 - ELMS:LN produced web components for any project.
 * [Wokwi Elements](https://github.com/wokwi/wokwi-elements) ⭐ 261 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-10 - Web Components for Arduino and various electronic parts.
-* [Clever components](https://github.com/CleverCloud/clever-components) ⭐ 240 | 🐛 330 | 🌐 JavaScript | 📅 2026-09-10 - Collection of Web Components made by Clever Cloud.
+* [Clever components](https://github.com/CleverCloud/clever-components) ⭐ 240 | 🐛 331 | 🌐 JavaScript | 📅 2026-09-10 - Collection of Web Components made by Clever Cloud.
 * [Curvenote](https://github.com/curvenote/article) ⭐ 199 | 🐛 20 | 🌐 TypeScript | 📅 2025-05-14 - Web components for creating interactive scientific articles.
 * [DataFormsJS](https://github.com/dataformsjs/dataformsjs) ⭐ 197 | 🐛 0 | 🌐 JavaScript | 📅 2025-07-31 - Standalone Components for SPA routing, displaying data from web services, and more.
-* [Ignite UI Web Components](https://github.com/IgniteUI/igniteui-webcomponents) ⭐ 169 | 🐛 35 | 🌐 TypeScript | 📅 2026-09-10 - Complete library of UI components from Infragistics.
+* [Ignite UI Web Components](https://github.com/IgniteUI/igniteui-webcomponents) ⭐ 169 | 🐛 35 | 🌐 TypeScript | 📅 2026-09-11 - Complete library of UI components from Infragistics.
 * [Nightingale](https://github.com/ebi-webcomponents/nightingale) ⭐ 151 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-01 - Data visualisation web components for the life sciences.
 * [Umbraco UI Components](https://github.com/umbraco/Umbraco.UI) ⭐ 151 | 🐛 61 | 🌐 TypeScript | 📅 2026-09-07 - Collection of user interface web components for Umbraco CMS.
 * [AXA Pattern Library](https://github.com/axa-ch-webhub-cloud/pattern-library) ⭐ 130 | 🐛 27 | 🌐 JavaScript | 📅 2023-12-04 - AXA CH UI components library built with Web Components.
 * [Blackstone UI](https://github.com/kjantzer/bui) ⭐ 110 | 🐛 17 | 🌐 JavaScript | 📅 2026-06-30 - Web components for creating interfaces by Blackstone Publishing.
 * [PlayCanvas Web Components](https://github.com/playcanvas/web-components) ⭐ 109 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-09 - Custom elements for building 3D interactive web apps with the PlayCanvas Engine.
-* [Dile Components](https://github.com/Polydile/dile-components) ⭐ 106 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-09 - General use Web Components for websites and applications.
+* [Dile Components](https://github.com/Polydile/dile-components) ⭐ 106 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-11 - General use Web Components for websites and applications.
 * [Stripe Elements](https://github.com/bennypowers/stripe-elements) ⭐ 84 | 🐛 17 | 🌐 TypeScript | 📅 2023-12-06 - Custom Element Wrapper for Stripe.js v3 Elements.
-* [Brightspace UI core](https://github.com/BrightspaceUI/core) ⭐ 79 | 🐛 48 | 🌐 JavaScript | 📅 2026-09-09 - Collection of web components for building Brightspace applications.
+* [Brightspace UI core](https://github.com/BrightspaceUI/core) ⭐ 79 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-10 - Collection of web components for building Brightspace applications.
 * [Medblocks UI](https://github.com/medblocks/medblocks-ui) ⭐ 73 | 🐛 11 | 🌐 TypeScript | 📅 2025-05-29 - Web Components for rapid development of openEHR and FHIR systems.
 * [TrendChart Elements](https://github.com/WebLogin/trendchart-elements) ⭐ 64 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-08 - Components to generate simple, light and responsive charts.
 * [Pixano Elements](https://github.com/pixano/pixano-elements) ⭐ 43 | 🐛 6 | 🌐 TypeScript | 📅 2023-03-22 - Re-usable web components dedicated to data annotation tasks.
@@ -342,13 +342,13 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 * [One Platform Components](https://github.com/1-Platform/op-components) ⭐ 33 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-09 - Set of web components for Red Hat One Platform.
 * [Joomla UI custom elements](https://github.com/joomla-projects/custom-elements) ⭐ 31 | 🐛 25 | 🌐 JavaScript | 📅 2026-05-23 - Compilation of Joomla 4 Custom Elements.
 * [Mutation testing elements](https://github.com/stryker-mutator/mutation-testing-elements) ⭐ 29 | 🐛 44 | 🌐 HTML | 📅 2026-09-07 - A schema for mutation testing results with the web components to visualize it.
-* [Nuxeo Elements](https://github.com/nuxeo/nuxeo-elements) ⭐ 29 | 🐛 66 | 🌐 JavaScript | 📅 2026-09-10 - Components for building web applications with Nuxeo using Web Components.
-* [Morpheus](https://github.com/romshark/morpheus) ⭐ 23 | 🐛 2 | 🌐 templ | 📅 2026-08-05 - An experimental web components UI kit.
+* [Nuxeo Elements](https://github.com/nuxeo/nuxeo-elements) ⭐ 29 | 🐛 71 | 🌐 JavaScript | 📅 2026-09-11 - Components for building web applications with Nuxeo using Web Components.
+* [Morpheus](https://github.com/romshark/morpheus) ⭐ 24 | 🐛 2 | 🌐 templ | 📅 2026-08-05 - An experimental web components UI kit.
 * [Titanium Elements](https://github.com/LeavittSoftware/titanium-elements) ⭐ 20 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-02 - Collection of lightweight web components used by Leavitt Group Enterprises.
 * [TEI Publisher Components](https://github.com/eeditiones/tei-publisher-components) ⭐ 18 | 🐛 71 | 🌐 JavaScript | 📅 2026-09-10 - Collection of web components used by TEI Publisher and apps generated by it.
 * [Tradeshift Elements](https://github.com/Tradeshift/elements) ⭐ 18 | 🐛 58 | 🌐 JavaScript | 📅 2026-09-01 - Reusable Tradeshift UI Components as Web Components.
 * [Open Business Application Platform Web Components](https://github.com/openbap/obap-elements) ⭐ 14 | 🐛 17 | 🌐 JavaScript | 📅 2023-01-06 - Collection of web components designed for business applications.
-* [Fusion Web Components](https://github.com/equinor/fusion-web-components) ⭐ 13 | 🐛 28 | 🌐 TypeScript | 📅 2026-09-08 - Ser of web components used by Equinor Fusion.
+* [Fusion Web Components](https://github.com/equinor/fusion-web-components) ⭐ 13 | 🐛 30 | 🌐 TypeScript | 📅 2026-09-11 - Ser of web components used by Equinor Fusion.
 * [Furo Webcomponents](https://github.com/eclipse/eclipsefuro-web) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-08 - Enterprise ready set of web components which work best with Eclipse Furo.
 * [Ketch.UP](https://github.com/smeup/ketchup) ⭐ 11 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-10 - Web components library for Sme.UP.
 * [XWeather](https://github.com/kherrick/x-weather) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2020-10-02 - Collection of web components implementing portions of the OpenWeatherMap API.
@@ -358,24 +358,24 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Design Systems
 
-* [Fluent UI Web Components](https://github.com/microsoft/fluentui/tree/master/packages/web-components) ⭐ 20,262 | 🐛 800 | 🌐 TypeScript | 📅 2026-09-09 - Library of Web Components that supports Microsoft's Fluent design language.
-* [Material Web Components](https://github.com/material-components/material-web) ⭐ 11,233 | 🐛 187 | 🌐 SCSS | 📅 2026-09-10 - Material Design implemented as Web Components.
-* [UI5 Web Components](https://github.com/UI5/webcomponents) ⭐ 1,775 | 🐛 220 | 🌐 TypeScript | 📅 2026-09-10 - Set of reusable UI elements implementing SAP Fiori Design Guidelines.
-* [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) ⭐ 1,535 | 🐛 233 | 🌐 TypeScript | 📅 2026-09-10 - Adobe Spectrum design language implementation built with Web Components.
+* [Fluent UI Web Components](https://github.com/microsoft/fluentui/tree/master/packages/web-components) ⭐ 20,266 | 🐛 805 | 🌐 TypeScript | 📅 2026-09-11 - Library of Web Components that supports Microsoft's Fluent design language.
+* [Material Web Components](https://github.com/material-components/material-web) ⭐ 11,234 | 🐛 187 | 🌐 SCSS | 📅 2026-09-11 - Material Design implemented as Web Components.
+* [UI5 Web Components](https://github.com/UI5/webcomponents) ⭐ 1,775 | 🐛 221 | 🌐 TypeScript | 📅 2026-09-11 - Set of reusable UI elements implementing SAP Fiori Design Guidelines.
+* [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) ⭐ 1,535 | 🐛 235 | 🌐 TypeScript | 📅 2026-09-11 - Adobe Spectrum design language implementation built with Web Components.
 * [Carbon Web Components](https://github.com/carbon-design-system/carbon-web-components) ⚠️ Archived - Carbon Design System variant on top of Web Components.
 * [PatternFly Elements](https://github.com/patternfly/patternfly-elements) ⭐ 394 | 🐛 170 | 🌐 TypeScript | 📅 2026-08-24 - Collection of flexible and lightweight Web Components based on the Unified Design Kit.
-* [Calcite Design System](https://github.com/Esri/calcite-design-system) ⭐ 373 | 🐛 988 | 🌐 TypeScript | 📅 2026-09-10 - Web Components for Esri's Calcite design framework.
-* [Siemens iX Web Components](https://github.com/siemens/ix/tree/main/packages/core) ⭐ 372 | 🐛 118 | 🌐 TypeScript | 📅 2026-09-10 - Web Components implementing Siemens iX design system.
-* [Crayons](https://github.com/freshdesk/crayons) ⭐ 248 | 🐛 47 | 🌐 JavaScript | 📅 2026-09-10 - Collection of web components that adheres to the Freshworks Design System.
+* [Calcite Design System](https://github.com/Esri/calcite-design-system) ⭐ 373 | 🐛 983 | 🌐 TypeScript | 📅 2026-09-11 - Web Components for Esri's Calcite design framework.
+* [Siemens iX Web Components](https://github.com/siemens/ix/tree/main/packages/core) ⭐ 373 | 🐛 112 | 🌐 TypeScript | 📅 2026-09-11 - Web Components implementing Siemens iX design system.
+* [Crayons](https://github.com/freshdesk/crayons) ⭐ 249 | 🐛 47 | 🌐 JavaScript | 📅 2026-09-11 - Collection of web components that adheres to the Freshworks Design System.
 * [Momentum UI Web Components](https://github.com/momentum-design/momentum-ui/tree/main/web-components) ⭐ 212 | 🐛 51 | 🌐 SCSS | 📅 2026-09-09 - Set of UI components based on Momentum Design.
 * [Astro Space UX Design System](https://github.com/RocketCommunicationsInc/astro) ⭐ 156 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-01 - Set of components to build rich space app experiences with established interaction patterns.
-* [Red Hat Design System](https://github.com/RedHat-UX/red-hat-design-system) ⭐ 149 | 🐛 182 | 🌐 HTML | 📅 2026-09-09 - Web components for building uniform experiences with the Red Hat brand.
+* [Red Hat Design System](https://github.com/RedHat-UX/red-hat-design-system) ⭐ 150 | 🐛 180 | 🌐 HTML | 📅 2026-09-10 - Web components for building uniform experiences with the Red Hat brand.
 * [OutlineJS](https://github.com/phase2/outline) ⭐ 131 | 🐛 21 | 🌐 TypeScript | 📅 2025-11-11 - Web component based design system starter kit.
-* [Pharos Design System](https://github.com/ithaka/pharos) ⭐ 131 | 🐛 78 | 🌐 TypeScript | 📅 2026-09-08 - JSTOR's design system to create cohesive, supportive, and beautiful experiences.
+* [Pharos Design System](https://github.com/ithaka/pharos) ⭐ 131 | 🐛 76 | 🌐 TypeScript | 📅 2026-09-10 - JSTOR's design system to create cohesive, supportive, and beautiful experiences.
 * [Liquid](https://github.com/emdgroup-liquid/liquid) ⭐ 87 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-09 - UI component library based on the Liquid Design System.
-* [NVIDIA Elements](https://github.com/nvidia/elements) ⭐ 85 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-10 - The Design Language and UI Agent Harness for AI/ML Factories, Robotics, and Autonomous Vehicles.
-* [Forge Components](https://github.com/tyler-technologies-oss/forge) ⭐ 68 | 🐛 68 | 🌐 TypeScript | 📅 2026-09-10 - Library of Web Components adhering to the Forge Design System.
-* [Lyne Components](https://github.com/sbb-design-systems/lyne-components) ⭐ 66 | 🐛 76 | 🌐 TypeScript | 📅 2026-09-10 - Building blocks of the Lyne Design System are based on Web Components.
+* [NVIDIA Elements](https://github.com/nvidia/elements) ⭐ 85 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-11 - The Design Language and UI Agent Harness for AI/ML Factories, Robotics, and Autonomous Vehicles.
+* [Forge Components](https://github.com/tyler-technologies-oss/forge) ⭐ 69 | 🐛 69 | 🌐 TypeScript | 📅 2026-09-10 - Library of Web Components adhering to the Forge Design System.
+* [Lyne Components](https://github.com/sbb-design-systems/lyne-components) ⭐ 66 | 🐛 74 | 🌐 TypeScript | 📅 2026-09-11 - Building blocks of the Lyne Design System are based on Web Components.
 * [Auro Design System](https://auro.alaskaair.com) - Alaska Airlines design system to innovate on ideas and collaborate on the future.
 * [Blueprint UI](https://blueprintui.dev) - Web Component based design system with flexible and lightweight components.
 * [Nessie Design System](https://design.ns.nl) - Web components  by NS Dutch Railways for consumer (external) applications.
@@ -404,14 +404,14 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Class Based
 
-* [Omi](https://github.com/Tencent/omi) ⭐ 13,262 | 🐛 69 | 🌐 TypeScript | 📅 2026-03-27 - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating).
-* [Stencil](https://github.com/stenciljs/core) ⭐ 13,128 | 🐛 183 | 🌐 TypeScript | 📅 2026-09-10 - Compiler for generating Web Components.
-* [FAST Element](https://github.com/microsoft/fast/tree/main/packages/fast-element) ⭐ 9,672 | 🐛 82 | 🌐 TypeScript | 📅 2026-09-10 - Lightweight library for building performant, memory-efficient, standards-compliant Web Components.
-* [Lightning Web Components](https://github.com/salesforce/lwc) ⭐ 1,786 | 🐛 415 | 🌐 JavaScript | 📅 2026-09-09 - blazing fast, enterprise-grade Web Components foundation.
-* [Panel](https://github.com/mixpanel/panel) ⭐ 274 | 🐛 31 | 🌐 JavaScript | 📅 2026-07-28 - Web Components + Virtual DOM: web standards for powerful UIs.
-* [Lume Element](https://github.com/lume/element) ⭐ 186 | 🐛 32 | 🌐 TypeScript | 📅 2026-04-25 - Write custom elements with reactivity and templating powered by Solid.js signals and effects.
+* [Omi](https://github.com/Tencent/omi) ⭐ 13,264 | 🐛 69 | 🌐 TypeScript | 📅 2026-03-27 - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating).
+* [Stencil](https://github.com/stenciljs/core) ⭐ 13,128 | 🐛 183 | 🌐 TypeScript | 📅 2026-09-11 - Compiler for generating Web Components.
+* [FAST Element](https://github.com/microsoft/fast/tree/main/packages/fast-element) ⭐ 9,673 | 🐛 75 | 🌐 TypeScript | 📅 2026-09-10 - Lightweight library for building performant, memory-efficient, standards-compliant Web Components.
+* [Lightning Web Components](https://github.com/salesforce/lwc) ⭐ 1,786 | 🐛 415 | 🌐 JavaScript | 📅 2026-09-10 - blazing fast, enterprise-grade Web Components foundation.
+* [Panel](https://github.com/mixpanel/panel) ⭐ 274 | 🐛 29 | 🌐 JavaScript | 📅 2026-07-28 - Web Components + Virtual DOM: web standards for powerful UIs.
+* [Lume Element](https://github.com/lume/element) ⭐ 187 | 🐛 32 | 🌐 TypeScript | 📅 2026-04-25 - Write custom elements with reactivity and templating powered by Solid.js signals and effects.
 * [WebCell](https://github.com/EasyWebApp/WebCell) ⭐ 177 | 🐛 7 | 🌐 TypeScript | 📅 2025-09-28 - Web Components engine based on VDOM, JSX, MobX & TypeScript.
-* [Joist](https://github.com/joist-framework/joist) ⭐ 134 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-10 - Set of small libraries designed to add the bare minimum to web components to make you productive.
+* [Joist](https://github.com/joist-framework/joist) ⭐ 134 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-10 - Set of small libraries designed to add the bare minimum to web components to make you productive.
 * [ReadyMade](https://github.com/readymade-ui/readymade/tree/main/src/modules/core) ⭐ 68 | 🐛 8 | 🌐 TypeScript | 📅 2025-03-10 - Write custom element classes with decorators. No dependencies.
 * [DNA](https://github.com/chialab/dna) ⭐ 60 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-04 - Progressive Web Components library.
 * [element-js](https://github.com/webtides/element-js) ⭐ 30 | 🐛 24 | 🌐 JavaScript | 📅 2026-06-24 - Simple and lightweight base classes for web components with a beautiful API.
@@ -420,11 +420,11 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Functional
 
-* [Solid Element](https://github.com/solidjs/solid/tree/main/packages/solid-element) ⭐ 36,014 | 🐛 43 | 🌐 TypeScript | 📅 2026-09-10 - Library that extends Solid adding Custom Web Components and extensions.
+* [Solid Element](https://github.com/solidjs/solid/tree/main/packages/solid-element) ⭐ 36,017 | 🐛 35 | 🌐 TypeScript | 📅 2026-09-11 - Library that extends Solid adding Custom Web Components and extensions.
 * [hybrids](https://github.com/hybridsjs/hybrids) ⭐ 3,174 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-10 - UI library for creating Web Components with simple and functional API.
 * [haunted](https://github.com/matthewp/haunted) ⭐ 2,720 | 🐛 62 | 🌐 TypeScript | 📅 2026-09-07 - React's Hooks API implemented for web components.
 * [atomico](https://github.com/atomicojs/atomico) ⭐ 1,278 | 🐛 17 | 🌐 TypeScript | 📅 2026-07-19 - Small library for the creation of interfaces based on web components using functions and hooks.
-* [pion](https://github.com/pionjs/pion) ⭐ 98 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-09 - React's Hooks API for web components with lit-html.
+* [pion](https://github.com/pionjs/pion) ⭐ 98 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-10 - React's Hooks API for web components with lit-html.
 * [Elemento](https://github.com/dsolimando/elemento) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-08 - A lightweight library for building functional web components using signals and Lit.
 
 ### Integrations
@@ -434,7 +434,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 * [preact-custom-element](https://github.com/preactjs/preact-custom-element) ⭐ 404 | 🐛 14 | 🌐 JavaScript | 📅 2026-04-21 - Generate/register a custom element from a preact component.
 * [reactify-wc](https://github.com/BBKolton/reactify-wc) ⭐ 178 | 🐛 17 | 🌐 JavaScript | 📅 2023-03-06 - Use web components with React properties and functions.
 * [@adobe/react-webcomponent](https://github.com/adobe/react-webcomponent) ⭐ 104 | 🐛 12 | 🌐 JavaScript | 📅 2024-04-10 - Automate the wrapping of a React component in a custom element.
-* [nuxt-custom-elements](https://github.com/GrabarzUndPartner/nuxt-custom-elements) ⭐ 83 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-09 - Export your project components as custom elements for integration into external pages.
+* [nuxt-custom-elements](https://github.com/GrabarzUndPartner/nuxt-custom-elements) ⭐ 83 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-10 - Export your project components as custom elements for integration into external pages.
 * [@riotjs/custom-elements](https://github.com/riot/custom-elements) ⭐ 40 | 🐛 5 | 🌐 JavaScript | 📅 2026-01-21 - Simple API to create vanilla custom elements with Riot.js.
 * [ember-custom-elements](https://github.com/Ravenstine/ember-custom-elements) ⚠️ Archived - Render Ember and Glimmer components using custom elements.
 
@@ -486,7 +486,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Starter Kits
 
-* [custom-element-boilerplate](https://github.com/github/custom-element-boilerplate) ⭐ 178 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-30 - Boilerplate for creating a custom element.
+* [custom-element-boilerplate](https://github.com/github/custom-element-boilerplate) ⭐ 178 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-10 - Boilerplate for creating a custom element.
 * [nutmeg](https://github.com/abraham/nutmeg) ⭐ 118 | 🐛 23 | 🌐 TypeScript | 📅 2024-06-16 - Build, test, and publish vanilla Web Components with a little spice.
 * [hello-web-components](https://github.com/fernandopasik/hello-web-components) ⭐ 32 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-06 - Simple starter hello world web component written in TypeScript.
 * [Create Open Web Components](https://open-wc.org/docs/development/generator/) - Web component project scaffolding.
@@ -509,7 +509,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 * [web-component-analyzer](https://github.com/runem/web-component-analyzer) ⭐ 519 | 🐛 96 | 🌐 TypeScript | 📅 2023-11-24 - CLI that analyzes web components and emits documentation / diagnostics.
 * [Custom Elements Locator](https://github.com/open-wc/locator) ⭐ 38 | 🐛 4 | 🌐 JavaScript | 📅 2023-02-03 - Chrome extension to find custom elements on a page.
-* [Web Components Codemods](https://github.com/kcmr/web-components-codemods) ⭐ 10 | 🐛 37 | 🌐 JavaScript | 📅 2026-09-09 - Codemods for Web Components.
+* [Web Components Codemods](https://github.com/kcmr/web-components-codemods) ⭐ 10 | 🐛 37 | 🌐 JavaScript | 📅 2026-09-11 - Codemods for Web Components.
 * [Custom Elements Manifest](https://custom-elements-manifest.open-wc.org/) - Codegen for Web Components.
 * [@storybook/web-components](https://www.npmjs.com/package/@storybook/web-components) - UI development environment for plain web-component snippets.
 * [@web/storybook-builder](https://modern-web.dev/docs/storybook-builder/overview/) - Storybook builder with support for Web Components.
@@ -580,7 +580,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Constructable Stylesheet Objects
 
-* [web-platform-tests](https://github.com/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html) ⭐ 6,146 | 🐛 2,805 | 🌐 HTML | 📅 2026-09-10
+* [web-platform-tests](https://github.com/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html) ⭐ 6,145 | 🐛 2,801 | 🌐 HTML | 📅 2026-09-11
 * [Explainer](https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md) ⭐ 137 | 🐛 27 | 🌐 Bikeshed | 📅 2022-10-14
 * [Specification Draft](https://wicg.github.io/construct-stylesheets/)
 * [Constructable Stylesheets](https://www.chromestatus.com/feature/5394843094220800) - Feature in Chrome platform status.
@@ -615,7 +615,7 @@ The only notable exception is that customized built-in elements are rejected by 
 
 #### Shadow DOM shims
 
-* [@lwc/synthetic-shadow](https://github.com/salesforce/lwc/blob/master/packages/@lwc/synthetic-shadow) ⭐ 1,786 | 🐛 415 | 🌐 JavaScript | 📅 2026-09-09 - Shadow DOM polyfill by [LWC](https://lwc.dev).
+* [@lwc/synthetic-shadow](https://github.com/salesforce/lwc/blob/master/packages/@lwc/synthetic-shadow) ⭐ 1,786 | 🐛 415 | 🌐 JavaScript | 📅 2026-09-10 - Shadow DOM polyfill by [LWC](https://lwc.dev).
 * [@webcomponents/shadydom](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) ⭐ 1,189 | 🐛 152 | 🌐 HTML | 📅 2026-06-22 - ShadowDOM v1 shim.
 * [@webcomponents/shadycss](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) ⭐ 1,189 | 🐛 152 | 🌐 HTML | 📅 2026-06-22 - ShadowDOM style encapsulation shim.
 
@@ -788,4 +788,4 @@ These materials are here for historical reasons only, they are grouped by years 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
